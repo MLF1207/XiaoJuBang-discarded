@@ -1,2 +1,2 @@
-include ':app', ':net'
-rootProject.name='XiaoJuBang'
+include ':app'
+rootProject.name = "YilaoApp"
