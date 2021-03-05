@@ -123,4 +123,5 @@
         <item name="android:textSize">18sp</item>
         <item name="android:textColor">#515151</item>
     </style>
+
 </resources>
